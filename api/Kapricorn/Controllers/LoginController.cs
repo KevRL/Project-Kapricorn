@@ -26,7 +26,7 @@ namespace Kapricorn.Controllers
             string s_hack_db = System.Configuration.ConfigurationManager.AppSettings["hackstore"];
 
             GetDB db = new GetDB();
-            db.GetSystemDatabase(s_hack_db, "clientsurveys", ref dbMongo, ref s_Database, ref s_Collection);
+            db.GetSystemDatabase(s_hack_db, "hack_SvyApp", ref dbMongo, ref s_Database, ref s_Collection);
 
 
             StringBuilder sb = new StringBuilder();
