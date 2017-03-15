@@ -48,7 +48,7 @@ namespace Kapricorn
 
             config.Routes.MapHttpRoute(
                 name: "LoginApi",
-                routeTemplate: "api/login/{surveyId}",
+                routeTemplate: "api/login/{userinfo}",
                 defaults: new { controller = "Login", action = "SendData" },
                 constraints: null);
 
