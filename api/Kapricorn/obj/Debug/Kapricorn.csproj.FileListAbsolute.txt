@@ -1,6 +1,5 @@
 c:\dev\Kapricorn\Kapricorn\bin\Kapricorn.dll
 c:\dev\Kapricorn\Kapricorn\bin\Kapricorn.pdb
-c:\dev\Kapricorn\Kapricorn\bin\Newtonsoft.Json.dll
 c:\dev\Kapricorn\Kapricorn\bin\System.Net.Http.Formatting.dll
 c:\dev\Kapricorn\Kapricorn\bin\System.Web.Http.dll
 c:\dev\Kapricorn\Kapricorn\bin\System.Web.Http.WebHost.dll
@@ -11,3 +10,13 @@ c:\dev\Kapricorn\Kapricorn\bin\System.Web.Http.WebHost.xml
 c:\dev\Kapricorn\Kapricorn\obj\Debug\Kapricorn.csprojResolveAssemblyReference.cache
 c:\dev\Kapricorn\Kapricorn\obj\Debug\Kapricorn.dll
 c:\dev\Kapricorn\Kapricorn\obj\Debug\Kapricorn.pdb
+c:\Dev\Kapricorn\Kapricorn\bin\MongoDB.Bson.dll
+c:\Dev\Kapricorn\Kapricorn\bin\MongoDB.Driver.dll
+c:\Dev\Kapricorn\Kapricorn\bin\MongoDB.Bson.xml
+c:\Dev\Kapricorn\Kapricorn\bin\MongoDB.Driver.xml
+c:\inetpub\wwwroot\kapricorn\Kapricorn.dll
+c:\inetpub\wwwroot\kapricorn\Kapricorn.pdb
+c:\inetpub\wwwroot\kapricorn\bin\Kapricorn.dll
+c:\inetpub\wwwroot\kapricorn\bin\Kapricorn.pdb
+c:\inetpub\wwwroot\KapricornApi\bin\Kapricorn.dll
+c:\inetpub\wwwroot\KapricornApi\bin\Kapricorn.pdb
