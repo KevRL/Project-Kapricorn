@@ -19,7 +19,7 @@ namespace Kapricorn.Controllers
             return respx;
         }
 
-       
+        [HttpPost]
         public HttpResponseMessage GetLogin(string name_id, string email_id, string pswd_id)
         {
             string json = "[{\"name\":\"" + name_id + "\"}, {\"email\":\"" + email_id + "\"}, {\"pswd\":\"" + pswd_id + "\"}]";

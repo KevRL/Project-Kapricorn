@@ -38,13 +38,19 @@ namespace Kapricorn
                 name: "DataApi",
                 routeTemplate: "api/data/{id}",
                 defaults: new { id = RouteParameter.Optional }
-            );
+            );  
 
             config.Routes.MapHttpRoute(
                 name: "SurveysApi",
                 routeTemplate: "api/surveys/{id}",
                 defaults: new { id = RouteParameter.Optional }
             );
+
+            config.Routes.MapHttpRoute(
+                name: "LoginApi",
+                routeTemplate: "api/login/{surveyId}",
+                defaults: new { controller = "Login", action = "SendData" },
+                constraints: null);
 
             config.Routes.MapHttpRoute(
                 name: "UsersApi",

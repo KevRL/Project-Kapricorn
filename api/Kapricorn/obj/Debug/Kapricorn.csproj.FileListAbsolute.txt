@@ -20,3 +20,8 @@ c:\inetpub\wwwroot\kapricorn\bin\Kapricorn.dll
 c:\inetpub\wwwroot\kapricorn\bin\Kapricorn.pdb
 c:\inetpub\wwwroot\KapricornApi\bin\Kapricorn.dll
 c:\inetpub\wwwroot\KapricornApi\bin\Kapricorn.pdb
+C:\inetpub\wwwroot\hack\inetpub\wwwroot\KapricornApi\bin\Kapricorn.dll
+C:\inetpub\wwwroot\hack\inetpub\wwwroot\KapricornApi\bin\Kapricorn.pdb
+C:\inetpub\wwwroot\hack\Project-Kapricorn\api\Kapricorn\obj\Debug\Kapricorn.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\hack\Project-Kapricorn\api\Kapricorn\obj\Debug\Kapricorn.dll
+C:\inetpub\wwwroot\hack\Project-Kapricorn\api\Kapricorn\obj\Debug\Kapricorn.pdb
